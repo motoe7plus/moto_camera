@@ -4,6 +4,7 @@ MotoCamera clone:
 ```
 git clone https://gitlab.com/Deivid21/proprietary_vendor_motorola_MotCamera2.git -b android-15 vendor/motorola/MotCamera2
 git clone https://gitlab.com/Deivid21/proprietary_vendor_motorola_MotCamera-common.git -b android-15 vendor/motorola/MotCamera-common
+git clone https://gitlab.com/Deivid21/proprietary_vendor_motorola_ARselfie.git -b android-15 vendor/motorola/ARselfie
 ```
 
 add to device.mk
